@@ -6,30 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/menu.unity
-    guid: 6535c3b9296db9a4081f963c543244d0
-  - enabled: 1
-    path: Assets/plays.unity
-    guid: 6746b10277626954eaafdb0b80830e99
-  - enabled: 0
-    path: 
-    guid: 5a4c1832c5523ad4dac538ac542f0a5a
-  - enabled: 1
-    path: Assets/clean.unity
-    guid: 300772911b1c3b943a626c711ae81b3a
-  - enabled: 1
-    path: Assets/Swing.unity
-    guid: d68ad2d27bbb7ae40abc1108378acf01
-  - enabled: 1
-    path: Assets/Swing Down.unity
-    guid: 4af835abfc2aaf045a28df79df39b310
-  - enabled: 1
-    path: Assets/Cross.unity
-    guid: fdbc50ccf757ea54ba2af4b178bfd100
-  - enabled: 1
-    path: Assets/Warrior.unity
-    guid: c6c9879cdbcb9204894dae6baa97b763
-  - enabled: 1
-    path: Assets/Rocket.unity
-    guid: 131d35c0ebd44c6418d6e2a1cf91e789
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects: {}

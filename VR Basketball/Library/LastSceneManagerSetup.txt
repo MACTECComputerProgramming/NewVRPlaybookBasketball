@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/clean.unity
+- path: Assets/Scenes/TheFist.unity
   isLoaded: 1
   isActive: 1
