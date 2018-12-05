@@ -13,7 +13,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 0
     y: 43
     width: 1920
@@ -27,16 +26,6 @@ MonoBehaviour:
   m_RootView: {fileID: 6}
   m_MinSize: {x: 950, y: 542}
 >>>>>>> parent of d9d6914... Adding the vr character controller
-=======
-    x: 8
-    y: 51
-    width: 1904
-    height: 981
-  m_ShowMode: 4
-  m_Title: 
-  m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
->>>>>>> parent of 352a8df... mmmmmerge
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -95,8 +84,13 @@ MonoBehaviour:
   m_MaxSize: {x: 14002, y: 14042}
 =======
     width: 1904
+<<<<<<< HEAD
     height: 931
   m_MinSize: {x: 681, y: 492}
+=======
+    height: 932
+  m_MinSize: {x: 683, y: 492}
+>>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
   m_MaxSize: {x: 14004, y: 14042}
 >>>>>>> parent of 46a6072... double merge
   vertical: 0
@@ -116,7 +110,6 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 1505
     y: 0
     width: 415
@@ -132,12 +125,12 @@ MonoBehaviour:
   m_ActualView: {fileID: 12}
 >>>>>>> parent of d9d6914... Adding the vr character controller
 =======
-=======
-    x: 1492
-    y: 0
->>>>>>> parent of 352a8df... mmmmmerge
     width: 412
     height: 931
+=======
+    width: 555
+    height: 932
+>>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
@@ -174,7 +167,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 303
     height: 510
   m_MinSize: {x: 202, y: 221}
@@ -182,12 +174,6 @@ MonoBehaviour:
 <<<<<<< HEAD
   m_ActualView: {fileID: 18}
 =======
-=======
-    width: 300
-    height: 501
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
->>>>>>> parent of 352a8df... mmmmmerge
   m_ActualView: {fileID: 17}
 >>>>>>> parent of d9d6914... Adding the vr character controller
   m_Panes:
@@ -209,21 +195,12 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
     y: 510
     width: 1505
     height: 437
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 21}
-=======
-    y: 501
-    width: 1492
-    height: 430
-  m_MinSize: {x: 232, y: 271}
-  m_MaxSize: {x: 10002, y: 10021}
-  m_ActualView: {fileID: 15}
->>>>>>> parent of 352a8df... mmmmmerge
   m_Panes:
   - {fileID: 16}
   - {fileID: 21}
@@ -248,15 +225,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 1920
     height: 997
   m_MinSize: {x: 950, y: 300}
-=======
-    width: 1904
-    height: 981
-  m_MinSize: {x: 950, y: 542}
->>>>>>> parent of 352a8df... mmmmmerge
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &8
 MonoBehaviour:
@@ -294,13 +265,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
     y: 977
     width: 1920
-=======
-    y: 961
-    width: 1904
->>>>>>> parent of 352a8df... mmmmmerge
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -322,7 +288,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 1505
     height: 947
 <<<<<<< HEAD
@@ -333,11 +298,6 @@ MonoBehaviour:
 --- !u!114 &11
 =======
   m_MinSize: {x: 406, y: 492}
-=======
-    width: 1492
-    height: 931
-  m_MinSize: {x: 404, y: 492}
->>>>>>> parent of 352a8df... mmmmmerge
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 10
@@ -361,7 +321,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 1505
     height: 510
 <<<<<<< HEAD
@@ -373,12 +332,6 @@ MonoBehaviour:
 =======
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
-=======
-    width: 1492
-    height: 501
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
->>>>>>> parent of 352a8df... mmmmmerge
   vertical: 0
   controlID: 11
 --- !u!114 &11
@@ -396,18 +349,11 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 303
     y: 0
     width: 472
     height: 510
 <<<<<<< HEAD
-=======
-    x: 300
-    y: 0
-    width: 1192
-    height: 501
->>>>>>> parent of 352a8df... mmmmmerge
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 19}
@@ -559,7 +505,6 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_SelectedIDs: 402b0000
     m_LastClickedID: 11072
     m_ExpandedIDs: 000000004a2b00007e2b0000102c0000122d0000502e00007c2e0000222f0000
@@ -578,11 +523,6 @@ MonoBehaviour:
     m_ExpandedIDs: 00000000422b0000782b00009a2b00008e2c0000542d00008a2e000000ca9a3b
 >>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
 >>>>>>> parent of 46a6072... double merge
-=======
-    m_SelectedIDs: 18380000
-    m_LastClickedID: 14360
-    m_ExpandedIDs: 000000001e37000044370000b0380000a839000000ca9a3b
->>>>>>> parent of 352a8df... mmmmmerge
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -612,7 +552,6 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_ExpandedIDs: 000000004a2b00007e2b0000102c0000122d0000502e00007c2e0000222f0000
 =======
     m_ExpandedIDs: 
@@ -623,9 +562,6 @@ MonoBehaviour:
     m_ExpandedIDs: 00000000422b0000782b00009a2b00008e2c0000542d00008a2e0000
 >>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
 >>>>>>> parent of 46a6072... double merge
-=======
-    m_ExpandedIDs: 000000001e37000044370000b0380000a8390000
->>>>>>> parent of 352a8df... mmmmmerge
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -656,12 +592,8 @@ MonoBehaviour:
 =======
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-<<<<<<< HEAD
 >>>>>>> parent of d9d6914... Adding the vr character controller
     m_HadKeyboardFocusLastEvent: 0
-=======
-    m_HadKeyboardFocusLastEvent: 1
->>>>>>> parent of 352a8df... mmmmmerge
     m_ExpandedInstanceIDs: c6230000e4240000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -714,17 +646,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 1507
     y: 19
     width: 413
     height: 926
-=======
-    x: 1502
-    y: 100
-    width: 410
-    height: 910
->>>>>>> parent of 352a8df... mmmmmerge
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -755,7 +680,6 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 0
     y: 92
     width: 301
@@ -782,18 +706,6 @@ MonoBehaviour:
     m_ExpandedIDs: e4fbffff00000000a0300000
 >>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
 >>>>>>> parent of 46a6072... double merge
-=======
-    x: 8
-    y: 100
-    width: 298
-    height: 480
-  m_PersistentViewDataDictionary: {fileID: 0}
-  m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 38e2ffff
-    m_LastClickedID: -7624
-    m_ExpandedIDs: aae3ffff90e7ffff92eaffff78ecffff00000000
->>>>>>> parent of 352a8df... mmmmmerge
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -837,7 +749,6 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 305
     y: 92
     width: 468
@@ -848,14 +759,6 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 >>>>>>> parent of 46a6072... double merge
-=======
-    x: 310
-    y: 100
-    width: 1188
-    height: 480
-  m_PersistentViewDataDictionary: {fileID: 0}
-  m_SceneLighting: 1
->>>>>>> parent of 352a8df... mmmmmerge
   lastFramingTime: 942.642056942862
   m_2DMode: 0
   m_isRotationLocked: 0
@@ -875,7 +778,6 @@ MonoBehaviour:
     m_Target: {x: -2.7802944, y: -2.093585, z: 0.34555846}
     speed: 2
     m_Value: {x: -2.7802944, y: -2.093585, z: 0.34555846}
-<<<<<<< HEAD
 =======
   lastFramingTime: 4500.284967145008
   m_2DMode: 1
@@ -887,8 +789,6 @@ MonoBehaviour:
     m_Value: {x: 423.67477, y: 143.27907, z: -5.625}
 >>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
 >>>>>>> parent of 46a6072... double merge
-=======
->>>>>>> parent of 352a8df... mmmmmerge
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -928,10 +828,10 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.2655697, y: 0.6413091, z: -0.252666, w: -0.6740588}
   m_Size:
+<<<<<<< HEAD
     m_Target: 16.228941
 >>>>>>> parent of 46a6072... double merge
     speed: 2
-<<<<<<< HEAD
     m_Value: 8.112472
 =======
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
@@ -947,15 +847,11 @@ MonoBehaviour:
     m_Value: 819.95197
 >>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
 >>>>>>> parent of 46a6072... double merge
-=======
-    m_Value: 16.228941
->>>>>>> parent of 352a8df... mmmmmerge
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_ShowGlobalGrid: 1
-<<<<<<< HEAD
 <<<<<<< HEAD
   m_LastSceneViewRotation: {x: -0.24402972, y: 0.71350306, z: -0.29730904, w: -0.5856366}
 =======
@@ -965,9 +861,6 @@ MonoBehaviour:
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
 >>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
 >>>>>>> parent of 46a6072... double merge
-=======
-  m_LastSceneViewRotation: {x: 0.015039608, y: 0.92882586, z: -0.037932944, w: 0.3682628}
->>>>>>> parent of 352a8df... mmmmmerge
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -993,17 +886,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 777
     y: 92
     width: 726
     height: 489
-=======
-    x: 310
-    y: 100
-    width: 1188
-    height: 480
->>>>>>> parent of 352a8df... mmmmmerge
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -1015,17 +901,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-<<<<<<< HEAD
     m_HBaseRangeMin: -363
     m_HBaseRangeMax: 363
     m_VBaseRangeMin: -236
     m_VBaseRangeMax: 236
-=======
-    m_HBaseRangeMin: -594
-    m_HBaseRangeMax: 594
-    m_VBaseRangeMin: -231.5
-    m_VBaseRangeMax: 231.5
->>>>>>> parent of 352a8df... mmmmmerge
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1043,43 +922,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-<<<<<<< HEAD
       width: 726
       height: 472
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 363, y: 236}
-=======
-      width: 1188
-      height: 463
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 594, y: 231.5}
->>>>>>> parent of 352a8df... mmmmmerge
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-<<<<<<< HEAD
       x: -363
       y: -236
       width: 726
       height: 472
-=======
-      x: -594
-      y: -231.5
-      width: 1188
-      height: 463
->>>>>>> parent of 352a8df... mmmmmerge
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 726, y: 489}
-=======
-  m_LastWindowPixelSize: {x: 1188, y: 480}
->>>>>>> parent of 352a8df... mmmmmerge
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
