@@ -114,7 +114,6 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1001 &23869458
 Prefab:
   m_ObjectHideFlags: 0
@@ -679,8 +678,6 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
 >>>>>>> parent of d9d6914... Adding the vr character controller
-=======
->>>>>>> parent of d9d6914... Adding the vr character controller
 --- !u!1 &969431480
 GameObject:
   m_ObjectHideFlags: 0
@@ -749,7 +746,6 @@ Transform:
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1023970850
 GameObject:
-<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -940,31 +936,18 @@ Transform:
 --- !u!1 &1762372327
 GameObject:
   m_ObjectHideFlags: 0
-=======
-  m_ObjectHideFlags: 0
->>>>>>> parent of d9d6914... Adding the vr character controller
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 1762372328}
   m_Layer: 0
   m_Name: 1wp2
   m_TagString: Untagged
-=======
-  - component: {fileID: 1023970853}
-  - component: {fileID: 1023970852}
-  - component: {fileID: 1023970851}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
->>>>>>> parent of d9d6914... Adding the vr character controller
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &1762372328
 Transform:
   m_ObjectHideFlags: 0
@@ -1084,20 +1067,10 @@ Prefab:
 =======
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-=======
---- !u!81 &1023970851
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> parent of d9d6914... Adding the vr character controller
   m_GameObject: {fileID: 1023970850}
   m_Enabled: 1
 --- !u!20 &1023970852
 Camera:
-<<<<<<< HEAD
->>>>>>> parent of d9d6914... Adding the vr character controller
-=======
 >>>>>>> parent of d9d6914... Adding the vr character controller
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
