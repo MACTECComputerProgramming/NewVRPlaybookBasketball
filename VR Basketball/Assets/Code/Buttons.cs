@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+<<<<<<< HEAD
 using UnityEngine.SceneManagement;
 
 public class Buttons : MonoBehaviour {
@@ -93,4 +94,18 @@ public class Buttons : MonoBehaviour {
 
     } 
 	
+=======
+
+public class Buttons : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+>>>>>>> parent of c339232... Revert "UPDATE"
 }
