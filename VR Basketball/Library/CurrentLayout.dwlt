@@ -70,7 +70,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-<<<<<<< HEAD
     width: 1920
     height: 947
 <<<<<<< HEAD
@@ -82,17 +81,6 @@ MonoBehaviour:
 =======
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
-=======
-    width: 1904
-<<<<<<< HEAD
-    height: 931
-  m_MinSize: {x: 681, y: 492}
-=======
-    height: 932
-  m_MinSize: {x: 683, y: 492}
->>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
-  m_MaxSize: {x: 14004, y: 14042}
->>>>>>> parent of 46a6072... double merge
   vertical: 0
   controlID: 9
 --- !u!114 &3
@@ -115,7 +103,6 @@ MonoBehaviour:
     width: 415
     height: 947
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
@@ -124,17 +111,6 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
 >>>>>>> parent of d9d6914... Adding the vr character controller
-=======
-    width: 412
-    height: 931
-=======
-    width: 555
-    height: 932
->>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
->>>>>>> parent of 46a6072... double merge
   m_Panes:
   - {fileID: 17}
   - {fileID: 14}
@@ -142,14 +118,11 @@ MonoBehaviour:
 <<<<<<< HEAD
   m_Selected: 0
   m_LastSelected: 2
-<<<<<<< HEAD
 --- !u!114 &5
 =======
   - {fileID: 12}
   m_Selected: 2
   m_LastSelected: 0
-=======
->>>>>>> parent of 46a6072... double merge
 --- !u!114 &4
 >>>>>>> parent of d9d6914... Adding the vr character controller
 MonoBehaviour:
@@ -484,26 +457,17 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
   - Assets
-=======
-    - Assets/Scenes
-  m_ViewMode: 1
-  m_StartGridSize: 67
-  m_LastFolders:
-  - Assets/Scenes
->>>>>>> parent of 46a6072... double merge
   m_LastFoldersGridSize: 67
   m_LastProjectPath: C:\Users\CS180\Desktop\NewVRPlaybookBasketball\VR Basketball
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 402b0000
     m_LastClickedID: 11072
@@ -513,16 +477,6 @@ MonoBehaviour:
     m_LastClickedID: 13106
     m_ExpandedIDs: 000000003233000000ca9a3b
 >>>>>>> parent of d9d6914... Adding the vr character controller
-=======
-    m_SelectedIDs: 18380000
-    m_LastClickedID: 14360
-    m_ExpandedIDs: 000000001e37000044370000b0380000a839000000ca9a3b
-=======
-    m_SelectedIDs: 242e0000
-    m_LastClickedID: 11812
-    m_ExpandedIDs: 00000000422b0000782b00009a2b00008e2c0000542d00008a2e000000ca9a3b
->>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
->>>>>>> parent of 46a6072... double merge
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,17 +505,10 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_ExpandedIDs: 000000004a2b00007e2b0000102c0000122d0000502e00007c2e0000222f0000
 =======
     m_ExpandedIDs: 
 >>>>>>> parent of d9d6914... Adding the vr character controller
-=======
-    m_ExpandedIDs: 000000001e37000044370000b0380000a8390000
-=======
-    m_ExpandedIDs: 00000000422b0000782b00009a2b00008e2c0000542d00008a2e0000
->>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
->>>>>>> parent of 46a6072... double merge
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -687,7 +634,6 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
     m_SelectedIDs: 86380000
     m_LastClickedID: 0
 <<<<<<< HEAD
@@ -695,17 +641,6 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: dcddffffc4e4ffff66ecffff00000000
 >>>>>>> parent of d9d6914... Adding the vr character controller
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: 38e2ffff
-    m_LastClickedID: -7624
-    m_ExpandedIDs: aae3ffff90e7ffff92eaffff78ecffff00000000
-=======
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: e4fbffff00000000a0300000
->>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
->>>>>>> parent of 46a6072... double merge
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -755,16 +690,11 @@ MonoBehaviour:
     height: 489
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> parent of 46a6072... double merge
   lastFramingTime: 942.642056942862
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: -0.08078623, y: 3.1144285, z: 1.9819069}
     speed: 2
@@ -774,21 +704,6 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
 >>>>>>> parent of d9d6914... Adding the vr character controller
-=======
-    m_Target: {x: -2.7802944, y: -2.093585, z: 0.34555846}
-    speed: 2
-    m_Value: {x: -2.7802944, y: -2.093585, z: 0.34555846}
-=======
-  lastFramingTime: 4500.284967145008
-  m_2DMode: 1
-  m_isRotationLocked: 0
-  m_AudioPlay: 0
-  m_Position:
-    m_Target: {x: 423.67477, y: 143.27907, z: -5.625}
-    speed: 2
-    m_Value: {x: 423.67477, y: 143.27907, z: -5.625}
->>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
->>>>>>> parent of 46a6072... double merge
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -817,50 +732,28 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_Target: {x: -0.2794047, y: -0.47081774, z: 0.16016218, w: -0.82134753}
     speed: 2
     m_Value: {x: -0.2794047, y: -0.47081774, z: 0.16016218, w: -0.82134753}
   m_Size:
     m_Target: 8.112472
-=======
-    m_Target: {x: 0.2655697, y: -0.6413091, z: 0.252666, w: 0.6740588}
-    speed: 2
-    m_Value: {x: -0.2655697, y: 0.6413091, z: -0.252666, w: -0.6740588}
-  m_Size:
-<<<<<<< HEAD
-    m_Target: 16.228941
->>>>>>> parent of 46a6072... double merge
     speed: 2
     m_Value: 8.112472
 =======
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-<<<<<<< HEAD
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
     m_Target: 10
     speed: 2
     m_Value: 10
 >>>>>>> parent of d9d6914... Adding the vr character controller
-=======
-    m_Value: 819.95197
->>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
->>>>>>> parent of 46a6072... double merge
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_ShowGlobalGrid: 1
-<<<<<<< HEAD
   m_LastSceneViewRotation: {x: -0.24402972, y: 0.71350306, z: -0.29730904, w: -0.5856366}
-=======
-<<<<<<< HEAD
-  m_LastSceneViewRotation: {x: 0.015039608, y: 0.92882586, z: -0.037932944, w: 0.3682628}
-=======
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
->>>>>>> parent of e73539b... Revert "made a lot of sceenes for menus"
->>>>>>> parent of 46a6072... double merge
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
