@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Court.unity
+=======
+- path: Assets/Scenes/main menu.unity
+>>>>>>> parent of f692cd8... made a lot of sceenes for menus
   isLoaded: 1
   isActive: 1
