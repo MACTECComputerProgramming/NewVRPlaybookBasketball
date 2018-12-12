@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menus/main menu.unity
+    guid: 1968b3971114a2348b1b9438b868e6e9
+  - enabled: 1
     path: Assets/Scenes/Court.unity
     guid: d92098afd4d6b9846a680c651f992d77
   - enabled: 1
@@ -14,9 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menus/Info.unity
     guid: 84af3a39a3e57634eb4b96ce6e7a97ab
-  - enabled: 1
-    path: Assets/Scenes/Menus/main menu.unity
-    guid: 1968b3971114a2348b1b9438b868e6e9
   - enabled: 1
     path: Assets/Scenes/Menus/Plays1-6.unity
     guid: 6de3bb256df461f4b998fb441d4bd61e

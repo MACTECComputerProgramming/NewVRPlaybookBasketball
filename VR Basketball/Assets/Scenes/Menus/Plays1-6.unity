@@ -368,7 +368,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 543674371}
-          m_MethodName: toClipper2
+          m_MethodName: Clipper2
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -538,7 +538,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1026829998}
-          m_MethodName: toSwingDown4
+          m_MethodName: SwingDown4
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -836,7 +836,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1305643784}
-          m_MethodName: toplaySLT2
+          m_MethodName: toplaySLT13_16
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -964,7 +964,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1322878208}
-          m_MethodName: toSwing3
+          m_MethodName: Swing3
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -1092,7 +1092,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1466854747}
-          m_MethodName: toFist1
+          m_MethodName: fist1
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}

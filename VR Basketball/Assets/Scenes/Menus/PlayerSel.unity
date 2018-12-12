@@ -174,7 +174,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 82624530}
-          m_MethodName: GuittGame
+          m_MethodName: player4
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -623,7 +623,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 835001062}
-          m_MethodName: toplaySLT1_6
+          m_MethodName: player1
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -835,7 +835,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1405853838}
-          m_MethodName: toInfo
+          m_MethodName: player2
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -963,7 +963,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1512308508}
-          m_MethodName: GuittGame
+          m_MethodName: player3
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -1157,7 +1157,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 1846335143}
-          m_MethodName: GuittGame
+          m_MethodName: player5
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
