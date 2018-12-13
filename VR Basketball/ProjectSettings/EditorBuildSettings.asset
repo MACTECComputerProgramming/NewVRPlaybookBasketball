@@ -24,51 +24,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Menus/Plays7-12.unity
     guid: c6aaeee17af56ce438097b0921f8bd45
   - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/AcrossPlayerSel.unity
-    guid: f3f598b16cfbdf443890ae9a11a8719c
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/CirclePlayerSel.unity
-    guid: ecba17b9a81943548b626aa9e632c1b8
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/ClipperPlayerSel.unity
-    guid: 5a13a9084eafebd4595603fa4fd06061
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/CrossPlayerSel.unity
-    guid: 895d2e95c498ef94eb2490effe3fa01f
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/EuroPlayerSel.unity
-    guid: a2d2852e45bb8f34e835722ae2ac9c50
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/ExchangePlayerSel.unity
-    guid: 23b278739cde01247b16d3f547273dee
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/FistPlayerSel.unity
-    guid: 023e576034ecbfe4991867d69fa3ddf7
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/LiftPlayerSel.unity
-    guid: 8ca8683246a00a0438984e7308bf09c1
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/RocketPlayerSel.unity
-    guid: bd3c1b7e95395044698cdd82189195c0
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/StayPlayerSel.unity
-    guid: 991abf7252dc5af4982915ece25ff802
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/StayPlayerSel 1.unity
-    guid: b1c2162530dcbbb4b8039a20946343ad
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/SwingDownPlaySel.unity
-    guid: a9c69d974c6c45447b03a134b6e3bbbb
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/SwingPlayerSel.unity
-    guid: e27f259ca54f7244f9bc634a3c327149
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/TrailPlayerSel.unity
-    guid: 42e697e7a66598b4dab3df96a4cfa43b
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/WarriorPlayerSel.unity
-    guid: 3150baf957194c242b27869a67e261d8
-  - enabled: 1
-    path: Assets/Scenes/Menus/PlayerSel/ZipperPlayerSel.unity
-    guid: 9c43e084dda4c9c49946063abd0827cf
+    path: Assets/Scenes/Menus/PlayerSel.unity
+    guid: c7f58815990bc3e438f855d87111b37b
   m_configObjects: {}

@@ -8,12 +8,20 @@ public class Buttons : MonoBehaviour
 {
     int playnumber = 0;
     int playernumber = 0;
-
+    
+    void start ()
+    {
+        playnumber = MenuINFO.Playnumber;
+        playernumber = MenuINFO.Playernumber;
+    } 
     //char sel
     public void player1()
     {
         playernumber = 1;
         wheretosend(playnumber, playernumber);
+        Debug.Log(playernumber);
+        Debug.Log(playnumber);
+        SceneManager.LoadScene("Court");
     }
 
     
@@ -43,6 +51,9 @@ public class Buttons : MonoBehaviour
         if (playnumber == 1 )
         {
             SceneManager.LoadScene("Court");
+            Debug.Log (playernumber);
+            Debug.Log(playnumber);
+
         }
     }
     //plays and add to val
@@ -50,6 +61,8 @@ public class Buttons : MonoBehaviour
     {
         playnumber = 1;
         SceneManager.LoadScene("PlayerSel");
+        Debug.Log(playernumber);
+        Debug.Log(playnumber);
     }
     public void Clipper2()
     {
